@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>CS106L-OOP</title>
+      <link href="/2022/01/21/CS106L/"/>
+      <url>/2022/01/21/CS106L/</url>
+      
+        <content type="html"><![CDATA[<p>Stanford CS106L这门课是C++的提升课（前置课程是CS106B和CS106X），我因为之前学过一点点C++皮毛就直接上手了CS106L，结果发现似乎和下学期OOP内容正交呜呜呜，但是还是很推荐这门课作为补充！</p><p>主要学习C++11、以及部分C++17、C++20相关的内容，感觉比较有用的有Lambda函数、Move Semantics、RAII等内容。</p><p>课程主页：<a href="http://web.stanford.edu/class/cs106l/">CS 106L: Standard C++ Programming</a></p><p>课程视频：<a href="https://www.youtube.com/channel/UCSqr6y-eaQT_qZJVUm_4QxQ">CS 106L-YouTube</a></p><p>笔记链接：<a href="https://github.com/CSWellesSun/CSNotes/tree/main/CS106L">CS106L笔记</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2022寒假 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
